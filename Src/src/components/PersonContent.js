@@ -11,7 +11,7 @@ export default class PersonContent extends React.Component{
           <div
             id="personal_content_header"
           >
-            Notifcation Form
+            Notification Form
           </div>
 
           <div
